@@ -39,7 +39,7 @@
 </tr>
 <tr>
 <td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/PedroMorais/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
 <td>
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
