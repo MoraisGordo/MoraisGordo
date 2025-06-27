@@ -36,4 +36,7 @@
 <tr>
  <td align="center">:watch: <a href="https://wakatime.com/@PedroMorais">WakaTime</a></td>
 </tr>
+ <td>
+  <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=PedroMorais&theme=dark&layout=compact"/>
+ </td>
 </table>
