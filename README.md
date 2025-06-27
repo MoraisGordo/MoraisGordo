@@ -25,6 +25,7 @@
  </td>
 </table>
 
+<!--
 <div align="center">
 <table>
 <tr>
@@ -83,7 +84,7 @@
 
 </details>
 </div>
-
+-->
 -----
 
 <div>
