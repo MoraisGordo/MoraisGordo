@@ -116,13 +116,6 @@
 </table>
 </div>
 
-<div>
-<details>
-<summary>:headphones: :guitar: :drum:</summary>
 
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/MoraisGordo/MoraisGordo/blob/main/image/Cyberpunk：%20Edgerunners%20｜%20“I%20Really%20Want%20to%20Stay%20At%20Your%20House”%20by%20Rosa%20Walton%20｜%20Music%20Video.mp3)
-
-</details>
-</div>
 
 -----
