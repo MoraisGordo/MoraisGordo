@@ -32,6 +32,9 @@
 </table>
 </div>
 
+<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/soulgem.gif?raw=true"/>Sobre mim: <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/soulgem.gif?raw=true"/>
+
+<div align="justify">
 <!--
 <div align="center">
 <table>
