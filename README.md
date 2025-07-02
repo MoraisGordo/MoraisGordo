@@ -15,12 +15,12 @@
 </td>
 </tr>
 </table>
-
+-----
 </div>
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Pedro Morais</code>, tenho 23 anos, moro em BH e sou programador do curso Engenharia de Software na  <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>,</i> Coração Eucaristico, 5° Periodo.
 </div>
-
+-----
 <div align="center">
 <table>
 <tr>
@@ -31,11 +31,12 @@
  </td>
 </table>
 </div>
-
+-----
 <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/soulgem.gif?raw=true"/>Sobre mim<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/soulgem.gif?raw=true"/>
 <div align="justify">
  Sou estudante da Puc Minas, Coração Eucaristico. Sempre estou pensando e fazendo projetos por conta propria para aumentar o meu portifólio e melhorar como profissional, alguns estão postados aqui embaixo. Detesto me sentir "medíocre" ou "incopentente", sentimentos que sempre está me empurrando para fazer um trabalho melhor e tentar aprender a fazer um trabalho correto. Possuo diversos conhecimentos em outras areas, como finanças e atendimento ao cliente devido a outros lugares que ja trabalhei, como mostrado no meu <a href="https://www.linkedin.com/in/pedro-henrique-morais-marques/" target="_blank">Linkedin</a>. Atuei em desenvolvimento full stack para uma empresa de Veterinária para o desenvolvimento de um aplicativo para cadastro de clientes, animais e controle de vacinas. Atuei em desenvolvimento full stack para a empresa BHTEC para desenvolvimento de uma aplicação de controle e analize de resíduos gerados em eventos.
 </div>
+-----
 <!--
 <div align="center">
 <table>
