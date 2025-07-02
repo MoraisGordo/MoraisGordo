@@ -1,21 +1,4 @@
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<th><a href="mailto:themorais360@gmail.com" target="_blank"><img src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/gmail3.png" width="50px" height="50px"/></a>
-</th>
-<th><a href="https://wa.me/5531996067175" target="_blank"><img src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/wpp2.png" width="50px" height="50px"/></a>
-</th>
-<th><a href="https://www.instagram.com/moraispedrom/" target="_blank"><img src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/insta2.png" width="50px" height="50px"/></a>
-</th>
-<th><a href="https://www.linkedin.com/in/pedro-henrique-morais-marques/" target="_blank"><img src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/linkedin2.png" width="50px" height="50px"/></a>
-</th>
-</td>
-</tr>
-</table>
-</div>
+
 
 -----
 </div>
