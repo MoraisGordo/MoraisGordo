@@ -16,6 +16,11 @@
 </tr>
 </table>
 
+</div>
+<div align="justify">
+<i><b>Olá</b> :wave:, sou o <code>Pedro Morais</code>, tenho 23 anos, moro em BH e sou programador do curso Engenharia de Software na  <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i><br /> Coração Eucaristico, 5° Periodo.
+</div>
+
 <table>
 <tr>
  <td align="center">:watch: <a href="https://wakatime.com/@PedroMorais">WakaTime</a></td>
