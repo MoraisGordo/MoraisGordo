@@ -1,6 +1,4 @@
 
-
------
 </div>
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Pedro Morais</code>, tenho 23 anos, moro em BH e sou programador do curso Engenharia de Software na  <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>,</i> Coração Eucaristico, 5° Periodo.
@@ -45,7 +43,15 @@
 </div>
 
 -----
+<img height="20" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/soulgem.gif"/>Demonstração do Projeto BHTEC<img height="20" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/soulgem.gif"/>
+<div align="center">
 
+[![Assista à demonstração do projeto](https://github.com/MoraisGordo/MoraisGordo/blob/main/image/bhtec_demo.png)](https://www.linkedin.com/posts/pedro-henrique-morais-marques_tive-a-oportunidade-de-desenvolver-em-parceria-activity-7347811363529920512-A2eO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFr7CBsBtlTcA85skKdqGCrvx0gSxs8v-3w)
+
+➡️ **Clique na imagem acima para ver o vídeo demonstrando a aplicação desenvolvida em parceria com o BH-TEC!**
+</div>
+
+-----
 <img height="20" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/skills.gif"/>&nbsp;Linguagens e ferramentas:
 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/python.png"/></a></code>
@@ -86,6 +92,7 @@
 &nbsp;
 
 -----
+
 
 <!--
 <div>
