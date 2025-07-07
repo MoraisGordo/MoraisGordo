@@ -53,6 +53,7 @@
 
 -----
 <img height="20" width="20" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/skills.gif"/>&nbsp;Linguagens e ferramentas:
+
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/python.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/c.png"/></a></code>
