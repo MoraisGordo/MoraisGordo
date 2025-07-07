@@ -37,13 +37,13 @@
 </div>
 
 -----
-<img height="10" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/soulgem.gif"/>Sobre mim<img height="10" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/soulgem.gif"/>
+<img height="20" width="20" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/soulgem.gif"/> Sobre mim <img height="20" width="20" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/soulgem.gif"/>
 <div align="justify">
  Sou estudante da Puc Minas, Coração Eucaristico. Sempre estou pensando e fazendo projetos por conta propria para aumentar o meu portifólio e melhorar como profissional, alguns estão postados aqui embaixo. Detesto me sentir "medíocre" ou "incopentente", sentimentos que sempre está me empurrando para fazer um trabalho melhor e tentar aprender a fazer um trabalho correto. Possuo diversos conhecimentos em outras areas, como finanças e atendimento ao cliente devido a outros lugares que ja trabalhei, como mostrado no meu <a href="https://www.linkedin.com/in/pedro-henrique-morais-marques/" target="_blank">Linkedin</a>. Atuei em desenvolvimento full stack para uma empresa de Veterinária para o desenvolvimento de um aplicativo para cadastro de clientes, animais e controle de vacinas. Atuei em desenvolvimento full stack para a empresa BHTEC para desenvolvimento de uma aplicação de controle e analize de resíduos gerados em eventos.
 </div>
 
 -----
-<img height="10" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/soulgem.gif"/>Demonstração do Projeto BHTEC<img height="10" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/soulgem.gif"/>
+<img height="20" width="20" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/soulgem.gif"/>Demonstração do Projeto BHTEC<img height="20" width="20" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/soulgem.gif"/>
 <div align="center">
 
 [![Assista à demonstração do projeto](https://github.com/MoraisGordo/MoraisGordo/blob/main/image/bhtec_demo.png)](https://www.linkedin.com/posts/pedro-henrique-morais-marques_tive-a-oportunidade-de-desenvolver-em-parceria-activity-7347811363529920512-A2eO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFr7CBsBtlTcA85skKdqGCrvx0gSxs8v-3w)
@@ -52,7 +52,7 @@
 </div>
 
 -----
-<img height="10" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/skills.gif"/>&nbsp;Linguagens e ferramentas:
+<img height="20" width="20" alt="GIF" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/skills.gif"/>&nbsp;Linguagens e ferramentas:
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/python.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/c.png"/></a></code>
