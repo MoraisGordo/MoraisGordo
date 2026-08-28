@@ -13,8 +13,7 @@
 <tr>
 <th><a href="mailto:themorais360@gmail.com" target="_blank"><img src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/gmail3.png" width="50px" height="50px"/></a>
 </th>
-<th><figure><embed src="https://wakatime.com/share/@PedroMorais/1adc4676-16fb-470f-89a4-307dad314fef.svg"></embed></figure>
-</th>
+<figure><embed src="https://wakatime.com/share/@PedroMorais/1adc4676-16fb-470f-89a4-307dad314fef.svg"></embed></figure>
 <th><a href="https://www.instagram.com/moraispedrom/" target="_blank"><img src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/insta2.png" width="50px" height="50px"/></a>
 </th>
 <th><a href="https://www.linkedin.com/in/pedro-henrique-morais-marques/" target="_blank"><img src="https://github.com/MoraisGordo/MoraisGordo/blob/main/image/linkedin2.png" width="50px" height="50px"/></a>
