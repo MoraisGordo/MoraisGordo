@@ -1,7 +1,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Pedro Morais</code>, tenho 24 anos, moro em BH e sou programador do curso Engenharia de Software na  <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>,</i> Coração Eucaristico, 6° Periodo.
+<i><b>Olá</b> :wave:, sou o <code>Pedro Morais</code>, tenho 24 anos, moro em BH e sou programador do curso Engenharia de Software na  <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>,</i> Coração Eucaristico, 7° Periodo.
 </div>
 
 -----
