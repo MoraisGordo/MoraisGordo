@@ -25,7 +25,7 @@
 
 -----
 <div align="center">
-<a href="https://wakatime.com/@PedroMorais](https://wakatime.com/share/@PedroMorais/7a0e4f76-5560-4d31-a20a-aae7daa17fb9.svg">WakaTime</a></td>
+<a href="https://wakatime.com/share/@PedroMorais/7a0e4f76-5560-4d31-a20a-aae7daa17fb9.svg">WakaTime</a></td>
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=PedroMorais&theme=dark&layout=compact"/>
 </div>
 
