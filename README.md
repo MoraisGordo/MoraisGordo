@@ -1,7 +1,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Pedro Morais</code>, tenho 24 anos, moro em BH e sou programador do curso Engenharia de Software na  <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>,</i> Coração Eucaristico, 7° Periodo.
+<i><b>Olá</b> :wave:, sou o <code>Pedro Morais</code>, tenho 25 anos, moro em Brumadinho/MG e sou programador do curso Engenharia de Software na  <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>,</i> Coração Eucaristico, 7° Periodo.
 </div>
 
 -----
@@ -25,7 +25,6 @@
 
 -----
 <div align="center">
-<a href="https://wakatime.com/share/@PedroMorais/7a0e4f76-5560-4d31-a20a-aae7daa17fb9.svg">WakaTime</a></td>
 <img alt="WakaTime" src="https://wakatime.com/share/@PedroMorais/75cd9a73-bab1-4d1d-b26e-72e7b39ff2f3.svg" width="350px" height="350px"/>
 </div>
 
